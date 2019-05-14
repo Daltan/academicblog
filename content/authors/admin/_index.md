@@ -20,7 +20,7 @@ role: 高产似母猪
 # Short bio (displayed in user profile at end of posts)
 bio: Python, Java, 数据分析，信息安全。公众号：cryptography
 
-intrests:
+interests:
 - 大数据分析
 - 信息安全与密码学
 - Python编程
@@ -44,10 +44,13 @@ intrests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:patrickheh@foxmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: weibo
   icon_pack: fab
   link: https://weibo.com/1787835437
+- icon: weixin
+  icon_pack: fab
+  link: http://weixin.qq.com/r/Fj8mPqrEkPfvre5d92oE
 - icon: linkedin
   icon_pack: ai
   link: https://www.linkedin.com/in/heenhui/
