@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 数据分析
+role: 高产似母猪
 
 # Organizations/Affiliations
 #organizations:
@@ -68,11 +68,9 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
+
 ---
 
-仅仅是具备出色的智力是不够的，注要的问题是如何出色地使用它
+# 仅仅是具备出色的智力是不够的，注要的问题是如何出色地使用它
 
 ——笛卡尔
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
