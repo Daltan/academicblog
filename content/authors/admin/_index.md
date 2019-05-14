@@ -20,7 +20,7 @@ role: 高产似母猪
 # Short bio (displayed in user profile at end of posts)
 bio: Python, Java, 数据分析，信息安全。公众号：cryptography
 
-interests:
+兴趣:
 - 大数据分析
 - 信息安全与密码学
 - Python编程
@@ -71,6 +71,6 @@ email: ""
 
 ---
 
-# 仅仅是具备出色的智力是不够的，注要的问题是如何出色地使用它
+# 我亦无他，唯手熟尔
 
-——笛卡尔
+——卖油翁

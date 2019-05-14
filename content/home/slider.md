@@ -12,8 +12,8 @@ interval = false
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "It is not enough to have a good mind; the main thing is to use it well -- Rene Descartes"
-  content = "脑袋瓜子好用还不成，得用好 —— 笛卡尔"
+  title = "It is not enough to have a good mind; the main thing is to use it well"
+  content = "脑袋瓜子好用还不成，得用好（笛卡尔）"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
