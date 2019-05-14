@@ -20,7 +20,7 @@ role: 高产似母猪
 # Short bio (displayed in user profile at end of posts)
 bio: Python, Java, 数据分析，信息安全。公众号：cryptography
 
-兴趣:
+intrests:
 - 大数据分析
 - 信息安全与密码学
 - Python编程
